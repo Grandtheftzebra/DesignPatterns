@@ -1,0 +1,3 @@
+repository "Factory_Pattern@Grandtheftzebra@cloud"
+  path "/"
+    smartbranch "/main" changeset "8"      
