@@ -1,3 +1,5 @@
+// All credits belong to "Unity Jesus" git amend
+
 using UnityEngine;
 
 namespace UnityUtils {
