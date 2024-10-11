@@ -1,3 +1,5 @@
+// Credits to git-amend
+
 using UnityEngine;
 
 namespace UnityUtils {
