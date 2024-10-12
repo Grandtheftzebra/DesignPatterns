@@ -1,0 +1,4 @@
+repository "Abstract_factory@Grandtheftzebra@cloud"
+  path "/"
+    br "/main"
+    co "/main"
