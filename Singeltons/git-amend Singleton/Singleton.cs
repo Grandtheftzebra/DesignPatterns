@@ -34,7 +34,6 @@ namespace UnityUtils
         /// </summary>
         protected virtual void Awake() => InitializeSingleton();
         
-
         protected virtual void InitializeSingleton() 
         {
             if (!Application.isPlaying) return;
