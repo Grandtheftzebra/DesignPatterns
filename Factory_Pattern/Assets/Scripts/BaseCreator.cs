@@ -13,5 +13,6 @@ public abstract class BaseCreator : MonoBehaviour
         Spawner = new GameObject();
         Model = model;
     }
+    
     public abstract IItem Create();
 }
